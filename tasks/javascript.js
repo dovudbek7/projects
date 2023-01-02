@@ -125,8 +125,55 @@
 // let d = Math.sqrt((x1-x2)**2+(y1-y2)**2)
 // console.log(d);
 
-// Begin 21
+// If 1
+// const son = 10
+// if (son >= 0){
+//     console.log(son + 1);
+// } else{
+//     console.log('kiritilayotgan son manfiy');
+// }
 
+// If 2 
+// const son = -10
+// if (son >= 0){
+//     console.log(son + 1);
+// } else{
+//     console.log(son + 2);
+// }
+
+// If 4
+// const a1 = 1
+// const a3 = 2
+// const a2 = 3
+// if (a1,a2,a3 >= 0){
+//     console.log(a1+a2+a3);
+// }
+
+// If 5
+// const natija = (a,b,c) =>{
+//     let manfiy = 0, musbat = 0;
+//     if(a>=0)musbat++;
+//     if(a<0)manfiy--;
+
+//     if(b>=0)musbat++;
+//     if(b<0)manfiy--;
+
+//     if(c>=0)musbat++;
+//     if(c<0)manfiy--;
+//     return `${musbat}ta raqam musbat ${manfiy}ta raqam manfiy `
+// }
+
+// console.log(natija(2,1,4));
+
+// If 6
+// const son = 1,son2 = 5;
+// if(son>son2){
+//     console.log(son);
+// }else{
+//     console.log(son2);
+// }
+
+// If 7
 
 
 
